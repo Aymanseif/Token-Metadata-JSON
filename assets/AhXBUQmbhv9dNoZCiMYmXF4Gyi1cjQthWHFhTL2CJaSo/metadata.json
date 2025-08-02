@@ -1,0 +1,41 @@
+{
+    "name": "Token FIRST PI MISR BANK",
+    "symbol": "$Teos",
+    "description": "The official token of FIRST PI MISR BANK by Elmahrosa \u2013 powering $TEOS cultural, banking, and digital projects in Egypt.",
+    "image": "https://file.dexlab.space/file/972dc753ee684b3c8ba51c16b4b6b4c2",
+    "external_url": "https://teosegypt.com",
+    "seller_fee_basis_points": 0,
+    "attributes": [
+        {
+            "trait_type": "Creator",
+            "value": "F1YLmukcxAyZj6zVpi2XaVctmYnuZQB5uHpd3uUpXxr6"
+        },
+        {
+            "trait_type": "Network",
+            "value": "Solana"
+        },
+        {
+            "trait_type": "DEX",
+            "value": "DexLab, Orca"
+        }
+    ],
+    "collection": {
+        "name": "TEOS Ecosystem",
+        "family": "Elmahrosa Projects"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://file.dexlab.space/file/972dc753ee684b3c8ba51c16b4b6b4c2",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "F1YLmukcxAyZj6zVpi2XaVctmYnuZQB5uHpd3uUpXxr6",
+                "share": 100
+            }
+        ]
+    }
+}
