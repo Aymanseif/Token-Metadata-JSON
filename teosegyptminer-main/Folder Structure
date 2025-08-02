@@ -1,0 +1,11 @@
+teos-miner-bot/
+├── bot.py                # Main bot logic (Telegram + mining + tiers)
+├── config.py             # Wallets, admin Telegram, constants
+├── requirements.txt      # Python dependencies
+├── README.md             # Full product overview
+├── help.md               # Bot help menu logic or reference
+├── tiers.md              # Mining tier breakdown
+├── wallets.json          # Payment wallets config
+├── branding.md           # Emojis, slogans, voice style
+├── license.md            # License info (MIT or your preferred)
+└── .env                  # (Optional) Secure token environment file
